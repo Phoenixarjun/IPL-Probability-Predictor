@@ -54,7 +54,7 @@ This project predicts the probability of a team winning an IPL match based on re
 
 | Match Input Page                | Prediction Output                 |
 | ------------------------------- | --------------------------------- |
-| (![Screenshot 2025-06-10 130749](https://github.com/user-attachments/assets/0fcb074c-5945-4526-8d76-ce537ec93d32) | (![Screenshot 2025-06-10 130808](https://github.com/user-attachments/assets/7ddab97a-34e9-46c7-879a-53253cb1b68d)) |
+| ![Screenshot 2025-06-10 130749](https://github.com/user-attachments/assets/0fcb074c-5945-4526-8d76-ce537ec93d32 | ![Screenshot 2025-06-10 130808](https://github.com/user-attachments/assets/7ddab97a-34e9-46c7-879a-53253cb1b68d) |
 
 
 
@@ -66,7 +66,7 @@ This project predicts the probability of a team winning an IPL match based on re
 
    ```bash
    git clone https://github.com/Phoenixarjun/IPL-Probability-Predictor/
-   cd ipl-win-predictor
+   cd IPL-Probability-Predictor
    ```
 
 2. **Install Dependencies**
