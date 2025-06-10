@@ -100,6 +100,7 @@ This project predicts the probability of a team winning an IPL match based on re
 ## ✨ Author
 
 **Naresh B A** – Full Stack Developer & ML Enthusiast
+
 Connect: [LinkedIn](www.linkedin.com/in/naresh-b-a-1b5331243) 
 
 ---
