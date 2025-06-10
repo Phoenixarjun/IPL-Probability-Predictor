@@ -17,7 +17,6 @@
 
 This project predicts the probability of a team winning an IPL match based on real-time inputs like score, overs, wickets, and playing teams. It’s built as an interactive **Streamlit** web app and uses a **Random Forest Classifier** trained on historical IPL data.
 
----
 
 ---
 
@@ -54,7 +53,7 @@ This project predicts the probability of a team winning an IPL match based on re
 
 | Match Input Page                | Prediction Output                 |
 | ------------------------------- | --------------------------------- |
-| ![Screenshot 2025-06-10 130749](https://github.com/user-attachments/assets/0fcb074c-5945-4526-8d76-ce537ec93d32 | ![Screenshot 2025-06-10 130808](https://github.com/user-attachments/assets/7ddab97a-34e9-46c7-879a-53253cb1b68d) |
+| ![Screenshot 2025-06-10 130749](https://github.com/user-attachments/assets/0fcb074c-5945-4526-8d76-ce537ec93d32) | ![Screenshot 2025-06-10 130808](https://github.com/user-attachments/assets/7ddab97a-34e9-46c7-879a-53253cb1b68d) |
 
 
 
